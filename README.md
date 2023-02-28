@@ -16,7 +16,7 @@ Uma API para web controle de gastos pessoais
 
 
 --- 
-...
+
 
 ### Cadastrar despesas
 

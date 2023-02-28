@@ -35,6 +35,7 @@ Uma API para web controle de gastos pessoais
 
 
 **Exemplo de corpo da respota**
+
 **Cógigos de respota**
 
 |código| descrição

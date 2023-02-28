@@ -32,6 +32,15 @@ Uma API para web controle de gastos pessoais
 
 **Exemplo de corpo de requisição** 
 
+```js
+{
+    valor: 100.00,
+    data: '2023-02-28',
+    categoria_id: 1,
+    conta_id: 1,
+    descricao: 'cinema',
+}
+```
 
 
 **Exemplo de corpo da respota**

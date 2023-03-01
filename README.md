@@ -56,7 +56,7 @@ Uma API para web controle de gastos pessoais
 ---
 ...
 ### Detalhar Despesas
-`GET`\api\desepas/{id}       
+`GET`/api/desepas/{id}       
 ```js
 {
     valor:100,0,
